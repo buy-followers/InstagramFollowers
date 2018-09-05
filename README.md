@@ -5,6 +5,14 @@
 ### Automation Script for getting more Followers on Instagram Likes, Comments and  on Instagram
 Implemented in Python using the Selenium module.
 
+#### Get more followers thanks for supporting this project
+* Worldwide : https://vues.tube/
+* US : https://pressgram.com/
+* UK : https://buy-followers.uk/
+* France : https://followers.tube/ 
+* Italy : https://comprare-follower.it/
+* Spain : https://comprar-followers.es/
+
 **Think this tool is worth supporting?**
 Head over to https://github.com/buy-followers/InstagramFollowers/wiki/How-to-Contribute to find out how you can help.
 **Become a part of InstaPy!**
@@ -14,13 +22,7 @@ Head over to https://github.com/buy-followers/InstagramFollowers/wiki/Reporting-
 
 **Disclaimer**: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I’m also not responsible if your accounts get banned due to extensive use of this tool.
 
-#### Get more followers thanks for supporting this project
-Worldwide : https://vues.tube/
-US : https://pressgram.com/
-UK : https://buy-followers.uk/
-France : https://followers.tube/ 
-Italy : https://comprare-follower.it/
-Spain : https://comprar-followers.es/
+
 
 ### This project was started by timgrossmann
 
