@@ -1,31 +1,33 @@
 <img src="https://i.imgur.com/sJzfZsL.jpg" width="150" align="right">
 
-# InstaPy
+# Instagram Followers Bot
+
+### Automation Script for getting more Followers on Instagram Likes, Comments and  on Instagram
+Implemented in Python using the Selenium module.
+
+**Think this tool is worth supporting?**
+Head over to https://github.com/buy-followers/InstagramFollowers/wiki/How-to-Contribute to find out how you can help.
+**Become a part of InstaPy!**
+
+**Have an issue?**
+Head over to https://github.com/buy-followers/InstagramFollowers/wiki/Reporting-An-Issue to find out how to report this to us and get help.
+
+**Disclaimer**: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I’m also not responsible if your accounts get banned due to extensive use of this tool.
+
+#### Get more followers thanks for supporting this project
+Worldwide : https://pressgram.com/
+UK : https://buy-followers.uk/
+France : https://vues.tube/
+Italy : https://comprare-follower.it/
+Spain : https://comprar-followers.es/
+
+### This project was started by timgrossmann
+
+
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timgrossmann/InstaPy/blob/master/LICENSE)
 [![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/timgrossmann/InstaPy)
-
-### Automation Script for “farming” Likes, Comments and Followers on Instagram
-Implemented in Python using the Selenium module.
-
-**Think this tool is worth supporting?**
-Head over to https://github.com/timgrossmann/InstaPy/wiki/How-to-Contribute to find out how you can help.
-**Become a part of InstaPy!**
-
-**Have an issue?**
-Head over to https://github.com/timgrossmann/InstaPy/wiki/Reporting-An-Issue to find out how to report this to us and get help.
-
-**Disclaimer**: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I’m also not responsible if your accounts get banned due to extensive use of this tool.
-
-#### Newsletter: [SignUp for the Newsletter here!](http://eepurl.com/cZbV_v)
-
-### Social
-
-#### [Slack Workspace](https://join.slack.com/t/instapy/shared_invite/enQtMjYzNTgwMDg3MDEyLTk2NWI0MjY2MTVjYmM2NjFlYjVmMmE0ZjU1OGQ0OWM2MTQwOTc1NTIyOGVhZDEwMTFkYzFmODE5ZWIxZjhjMTQ) | [InstaPy Twitter](https://twitter.com/InstaPy) | [My Twitter](https://twitter.com/timigrossmann) | [How it works (Medium)](https://medium.freecodecamp.com/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340) | [Check out the talk](https://youtu.be/4TmKFZy-ioQ) |
-[Listen to the "Talk Python to me"-Episode](https://talkpython.fm/episodes/show/142/automating-the-web-with-selenium-and-instapy) | [Support InstaPy!](https://www.paypal.me/supportInstaPy)
-
-[![paypal](https://img.shields.io/badge/-PayPal-blue.svg)](https://www.paypal.me/supportInstaPy)
 
 Table of Contents
 =================
